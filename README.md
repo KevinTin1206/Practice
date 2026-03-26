@@ -1,3 +1,0 @@
-# Practice
-
-Personal practice repository.
